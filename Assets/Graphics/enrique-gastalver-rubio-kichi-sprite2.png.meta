@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 416b44c6087d8c4478ca3d62138b7a28
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8795908445878595154
+    second: player_battleStance
+  - first:
+      213: -1233148223737725023
+    second: enrique-gastalver-rubio-kichi-sprite2_1
+  - first:
+      213: -531893096034396510
+    second: enrique-gastalver-rubio-kichi-sprite2_2
+  - first:
+      213: -4870420915321537679
+    second: player_attack1A
+  - first:
+      213: -7634510396221028830
+    second: player_attack1B
+  - first:
+      213: 9136704546203104456
+    second: player_attack1C
+  - first:
+      213: -7103042360115555967
+    second: enrique-gastalver-rubio-kichi-sprite2_6
+  - first:
+      213: 8104781977036097000
+    second: player_run1
+  - first:
+      213: 1264423088085563246
+    second: player_run2
+  - first:
+      213: -5956362322474675440
+    second: player_run3
+  - first:
+      213: -6563689894953525032
+    second: player_attack2A
+  - first:
+      213: -435536444985606831
+    second: player_attack2B
+  - first:
+      213: -2693466950252237831
+    second: player_attack2C
+  - first:
+      213: -1232744770829311390
+    second: enrique-gastalver-rubio-kichi-sprite2_13
+  - first:
+      213: -1346252275808343607
+    second: enrique-gastalver-rubio-kichi-sprite2_14
+  - first:
+      213: 2829701441795886594
+    second: enrique-gastalver-rubio-kichi-sprite2_15
+  - first:
+      213: 1400623904225647
+    second: player_idle1
+  - first:
+      213: -389313091004867364
+    second: player_idle2
+  - first:
+      213: -2907280629508449469
+    second: player_idle3
+  - first:
+      213: -3837046565239843115
+    second: enrique-gastalver-rubio-kichi-sprite2_19
+  - first:
+      213: -4750198886894688309
+    second: enrique-gastalver-rubio-kichi-sprite2_20
+  - first:
+      213: 5918932917656111499
+    second: player_battleStance
+  - first:
+      213: 8467952945895930186
+    second: enrique-gastalver-rubio-kichi-sprite2_1
+  - first:
+      213: -6378068883545169712
+    second: enrique-gastalver-rubio-kichi-sprite2_2
+  - first:
+      213: 7881698537095142209
+    second: player_attack1A
+  - first:
+      213: 4944413857974061693
+    second: player_attack1B
+  - first:
+      213: 6800390527185674324
+    second: player_attack1C
+  - first:
+      213: 1290150807935246236
+    second: enrique-gastalver-rubio-kichi-sprite2_6
+  - first:
+      213: 2721412970381798156
+    second: player_run1
+  - first:
+      213: -9002727082779377960
+    second: player_run2
+  - first:
+      213: -6723277683893153254
+    second: player_run3
+  - first:
+      213: -6029195153073736523
+    second: player_attack2A
+  - first:
+      213: 2091567643013335417
+    second: player_attack2B
+  - first:
+      213: -9102357096036498172
+    second: player_attack2C
+  - first:
+      213: -8101891994002576085
+    second: enrique-gastalver-rubio-kichi-sprite2_13
+  - first:
+      213: -3179254023867851378
+    second: enrique-gastalver-rubio-kichi-sprite2_14
+  - first:
+      213: 3161934711142281184
+    second: enrique-gastalver-rubio-kichi-sprite2_15
+  - first:
+      213: 2801616188901704117
+    second: player_idle1
+  - first:
+      213: 4741860774254135624
+    second: player_idle2
+  - first:
+      213: 4521705574177936298
+    second: player_idle3
+  - first:
+      213: -5387377375416150946
+    second: enrique-gastalver-rubio-kichi-sprite2_19
+  - first:
+      213: -2443043651539676865
+    second: enrique-gastalver-rubio-kichi-sprite2_20
+  - first:
+      213: 2721412970381798156
+    second: enrique-gastalver-rubio-kichi-sprite2_7
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: player_battleStance
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 504
+        width: 134
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b894246f026442250800000000000000
+      internalID: 5918932917656111499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enrique-gastalver-rubio-kichi-sprite2_1
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 509
+        width: 142
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4979d2d656348570800000000000000
+      internalID: 8467952945895930186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enrique-gastalver-rubio-kichi-sprite2_2
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 497
+        width: 137
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d06153942c8c77a0800000000000000
+      internalID: -6378068883545169712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_attack1A
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 526
+        width: 130
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b954a7f0b616d60800000000000000
+      internalID: 7881698537095142209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_attack1B
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 517
+        width: 177
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a001b05361e9440800000000000000
+      internalID: 4944413857974061693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_attack1C
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 517
+        width: 181
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45065da8727df5e50800000000000000
+      internalID: 6800390527185674324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enrique-gastalver-rubio-kichi-sprite2_6
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 2
+        width: 10
+        height: 638
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fd9a5035987e110800000000000000
+      internalID: 1290150807935246236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_run1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 395
+        width: 150
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b6fba8da664c520800000000000000
+      internalID: 2721412970381798156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_run2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 392
+        width: 161
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de752daa63ef0380800000000000000
+      internalID: -9002727082779377960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_run3
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 376
+        width: 145
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12dc35619e12b2a0800000000000000
+      internalID: -6723277683893153254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_attack2A
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 386
+        width: 168
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4788bc3fef35ca0800000000000000
+      internalID: -6029195153073736523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_attack2B
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 384
+        width: 155
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979c28190bdb60d10800000000000000
+      internalID: 2091567643013335417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_attack2C
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 382
+        width: 147
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4050dff827eeda180800000000000000
+      internalID: -9102357096036498172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enrique-gastalver-rubio-kichi-sprite2_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 249
+        width: 105
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d25e8382c409f80800000000000000
+      internalID: -8101891994002576085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enrique-gastalver-rubio-kichi-sprite2_14
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 250
+        width: 129
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d10a84f4501e3d0800000000000000
+      internalID: -3179254023867851378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enrique-gastalver-rubio-kichi-sprite2_15
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 250
+        width: 129
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efec9cfdd271eb20800000000000000
+      internalID: 3161934711142281184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_idle1
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 239
+        width: 87
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b14878841751e620800000000000000
+      internalID: 2801616188901704117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_idle2
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 245
+        width: 93
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849c6cf20497ec140800000000000000
+      internalID: 4741860774254135624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_idle3
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 244
+        width: 83
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa397cf334350ce30800000000000000
+      internalID: 4521705574177936298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enrique-gastalver-rubio-kichi-sprite2_19
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 120
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54185312d03c35b0800000000000000
+      internalID: -5387377375416150946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enrique-gastalver-rubio-kichi-sprite2_20
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 118
+        width: 96
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3154332eb0981ed0800000000000000
+      internalID: -2443043651539676865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1240 @@
+fileFormatVersion: 2
+guid: f35b094858ee5834282b36675f543298
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2368032014783893442
+    second: StoneBlocks_byVellidragon (2)_0
+  - first:
+      213: 6983447794134902091
+    second: StoneBlocks_byVellidragon (2)_1
+  - first:
+      213: -544976175098900938
+    second: StoneBlocks_byVellidragon (2)_2
+  - first:
+      213: -8644187776368430590
+    second: StoneBlocks_byVellidragon (2)_3
+  - first:
+      213: 8770891477935622281
+    second: StoneBlocks_byVellidragon (2)_4
+  - first:
+      213: -4845068003749913051
+    second: StoneBlocks_byVellidragon (2)_5
+  - first:
+      213: -3186193828553962158
+    second: StoneBlocks_byVellidragon (2)_6
+  - first:
+      213: -8770030308759360698
+    second: StoneBlocks_byVellidragon (2)_7
+  - first:
+      213: 5487223479295009840
+    second: StoneBlocks_byVellidragon (2)_8
+  - first:
+      213: 3339193907081218140
+    second: StoneBlocks_byVellidragon (2)_9
+  - first:
+      213: 8838477559359744691
+    second: StoneBlocks_byVellidragon (2)_10
+  - first:
+      213: -7563078548709522452
+    second: StoneBlocks_byVellidragon (2)_11
+  - first:
+      213: -5119274584793738020
+    second: StoneBlocks_byVellidragon (2)_12
+  - first:
+      213: -181483268308853393
+    second: StoneBlocks_byVellidragon (2)_13
+  - first:
+      213: 2542980743663429067
+    second: StoneBlocks_byVellidragon (2)_14
+  - first:
+      213: 8131415279062214830
+    second: StoneBlocks_byVellidragon (2)_15
+  - first:
+      213: 8037497715934826886
+    second: StoneBlocks_byVellidragon (2)_16
+  - first:
+      213: -5876374479301543725
+    second: StoneBlocks_byVellidragon (2)_17
+  - first:
+      213: 538017920658764134
+    second: StoneBlocks_byVellidragon (2)_18
+  - first:
+      213: -2632559138825804230
+    second: StoneBlocks_byVellidragon (2)_19
+  - first:
+      213: -5842529866322699541
+    second: StoneBlocks_byVellidragon (2)_20
+  - first:
+      213: 5012221097688216749
+    second: StoneBlocks_byVellidragon (2)_21
+  - first:
+      213: 6095436505789876748
+    second: StoneBlocks_byVellidragon (2)_22
+  - first:
+      213: 7498336638811700506
+    second: StoneBlocks_byVellidragon (2)_23
+  - first:
+      213: -5950734594452832569
+    second: StoneBlocks_byVellidragon (2)_24
+  - first:
+      213: -5444545088156757584
+    second: StoneBlocks_byVellidragon (2)_25
+  - first:
+      213: 4532819389583717599
+    second: StoneBlocks_byVellidragon (2)_26
+  - first:
+      213: -6735026962446333571
+    second: StoneBlocks_byVellidragon (2)_27
+  - first:
+      213: 1000129485666509383
+    second: StoneBlocks_byVellidragon (2)_28
+  - first:
+      213: 752628229115020105
+    second: StoneBlocks_byVellidragon (2)_29
+  - first:
+      213: -5404034444390446520
+    second: StoneBlocks_byVellidragon (2)_30
+  - first:
+      213: 2474611623045914871
+    second: StoneBlocks_byVellidragon (2)_31
+  - first:
+      213: -8398715317883135823
+    second: StoneBlocks_byVellidragon (2)_32
+  - first:
+      213: 7878018164548950702
+    second: StoneBlocks_byVellidragon (2)_33
+  - first:
+      213: -4595251034309024496
+    second: StoneBlocks_byVellidragon (2)_34
+  - first:
+      213: 182123470864709209
+    second: StoneBlocks_byVellidragon (2)_35
+  - first:
+      213: -359289803026343673
+    second: StoneBlocks_byVellidragon (2)_36
+  - first:
+      213: 4987856111203953223
+    second: StoneBlocks_byVellidragon (2)_37
+  - first:
+      213: -453702262861470664
+    second: StoneBlocks_byVellidragon (2)_38
+  - first:
+      213: -3890551146149782134
+    second: StoneBlocks_byVellidragon (2)_39
+  - first:
+      213: 514202222518096853
+    second: StoneBlocks_byVellidragon (2)_40
+  - first:
+      213: -6333409394963116110
+    second: StoneBlocks_byVellidragon (2)_41
+  - first:
+      213: -6189243698886082664
+    second: StoneBlocks_byVellidragon (2)_0
+  - first:
+      213: -5964188685863008422
+    second: StoneBlocks_byVellidragon (2)_1
+  - first:
+      213: -8408550522169871692
+    second: StoneBlocks_byVellidragon (2)_2
+  - first:
+      213: -1514735095629134414
+    second: StoneBlocks_byVellidragon (2)_3
+  - first:
+      213: -2568363317354832631
+    second: StoneBlocks_byVellidragon (2)_4
+  - first:
+      213: 8619378926086252693
+    second: StoneBlocks_byVellidragon (2)_5
+  - first:
+      213: 7733944250582747334
+    second: StoneBlocks_byVellidragon (2)_6
+  - first:
+      213: -1685911668204605696
+    second: StoneBlocks_byVellidragon (2)_7
+  - first:
+      213: 4158127180335423054
+    second: StoneBlocks_byVellidragon (2)_8
+  - first:
+      213: -7904513483579656716
+    second: StoneBlocks_byVellidragon (2)_9
+  - first:
+      213: 1267598498031473192
+    second: StoneBlocks_byVellidragon (2)_10
+  - first:
+      213: 6865682126046805261
+    second: StoneBlocks_byVellidragon (2)_11
+  - first:
+      213: 2684501879240527340
+    second: StoneBlocks_byVellidragon (2)_12
+  - first:
+      213: 9159853754925136189
+    second: StoneBlocks_byVellidragon (2)_13
+  - first:
+      213: -860763246365537959
+    second: StoneBlocks_byVellidragon (2)_14
+  - first:
+      213: -3662261049493762212
+    second: StoneBlocks_byVellidragon (2)_15
+  - first:
+      213: 3707095646649270840
+    second: StoneBlocks_byVellidragon (2)_16
+  - first:
+      213: -7485787495320617487
+    second: StoneBlocks_byVellidragon (2)_17
+  - first:
+      213: 494117372201372720
+    second: StoneBlocks_byVellidragon (2)_18
+  - first:
+      213: 8623989617472136901
+    second: StoneBlocks_byVellidragon (2)_19
+  - first:
+      213: 4807260561252932600
+    second: StoneBlocks_byVellidragon (2)_20
+  - first:
+      213: -3066313172082089741
+    second: StoneBlocks_byVellidragon (2)_21
+  - first:
+      213: 7480323424029917384
+    second: StoneBlocks_byVellidragon (2)_22
+  - first:
+      213: 7491490462285538
+    second: StoneBlocks_byVellidragon (2)_23
+  - first:
+      213: -8516881306432540736
+    second: StoneBlocks_byVellidragon (2)_24
+  - first:
+      213: 7047662384468151274
+    second: StoneBlocks_byVellidragon (2)_25
+  - first:
+      213: -1239396049077365570
+    second: StoneBlocks_byVellidragon (2)_26
+  - first:
+      213: -272576239840025991
+    second: StoneBlocks_byVellidragon (2)_27
+  - first:
+      213: 8626805847224451021
+    second: StoneBlocks_byVellidragon (2)_28
+  - first:
+      213: 7745836448707165648
+    second: StoneBlocks_byVellidragon (2)_29
+  - first:
+      213: -3573273348577434170
+    second: StoneBlocks_byVellidragon (2)_30
+  - first:
+      213: 4461451790989056927
+    second: StoneBlocks_byVellidragon (2)_31
+  - first:
+      213: 5571609980207698119
+    second: StoneBlocks_byVellidragon (2)_32
+  - first:
+      213: -3751817246973303187
+    second: StoneBlocks_byVellidragon (2)_33
+  - first:
+      213: -2045841575501996072
+    second: StoneBlocks_byVellidragon (2)_34
+  - first:
+      213: 2355129190158347962
+    second: StoneBlocks_byVellidragon (2)_35
+  - first:
+      213: 3068417443379149823
+    second: StoneBlocks_byVellidragon (2)_36
+  - first:
+      213: 6749447262038563587
+    second: StoneBlocks_byVellidragon (2)_37
+  - first:
+      213: 1014847562923971922
+    second: StoneBlocks_byVellidragon (2)_38
+  - first:
+      213: -94021850096666187
+    second: StoneBlocks_byVellidragon (2)_39
+  - first:
+      213: 5915927036440233336
+    second: StoneBlocks_byVellidragon (2)_40
+  - first:
+      213: 3998592695400901618
+    second: StoneBlocks_byVellidragon (2)_41
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StoneBlocks_byVellidragon (2)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ff19bd5a36b1aa0800000000000000
+      internalID: -6189243698886082664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBlocks_byVellidragon (2)_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a574bb56df1fa3da0800000000000000
+      internalID: -5964188685863008422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBlocks_byVellidragon (2)_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2b32ab9d3de4b80800000000000000
+      internalID: -8408550522169871692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBlocks_byVellidragon (2)_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b54538b4749afae0800000000000000
+      internalID: -1514735095629134414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBlocks_byVellidragon (2)_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ddbeeab275b5cd0800000000000000
+      internalID: -2568363317354832631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBlocks_byVellidragon (2)_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598ebd1477f2e9770800000000000000
+      internalID: 8619378926086252693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBlocks_byVellidragon (2)_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8c8a8d15d745b60800000000000000
+      internalID: 7733944250582747334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBlocks_byVellidragon (2)_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f6af525407a98e0800000000000000
+      internalID: -1685911668204605696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBlocks_byVellidragon (2)_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e1acac3a2a4b930800000000000000
+      internalID: 4158127180335423054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBlocks_byVellidragon (2)_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5f2f8ddd68d4290800000000000000
+      internalID: -7904513483579656716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBlocks_byVellidragon (2)_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8221cf03e1a679110800000000000000
+      internalID: 1267598498031473192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBlocks_byVellidragon (2)_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0db4c7848dc74f50800000000000000
+      internalID: 6865682126046805261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBlocks_byVellidragon (2)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced000f6c34414520800000000000000
+      internalID: 2684501879240527340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBlocks_byVellidragon (2)_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3937d885765e1f70800000000000000
+      internalID: 9159853754925136189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBlocks_byVellidragon (2)_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9598ba05364fd04f0800000000000000
+      internalID: -860763246365537959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBlocks_byVellidragon (2)_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fcc2e9af80d2dc0800000000000000
+      internalID: -3662261049493762212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBlocks_byVellidragon (2)_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8324dee79df327330800000000000000
+      internalID: 3707095646649270840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBlocks_byVellidragon (2)_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd7a553fe32d1890800000000000000
+      internalID: -7485787495320617487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBlocks_byVellidragon (2)_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c896fc1257bd600800000000000000
+      internalID: 494117372201372720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBlocks_byVellidragon (2)_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c665108dd09ea770800000000000000
+      internalID: 8623989617472136901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBlocks_byVellidragon (2)_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbd930b202d6b240800000000000000
+      internalID: 4807260561252932600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBlocks_byVellidragon (2)_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f022ff7a644275d0800000000000000
+      internalID: -3066313172082089741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBlocks_byVellidragon (2)_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0465e85827fc760800000000000000
+      internalID: 7480323424029917384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBlocks_byVellidragon (2)_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eeb7db887d9a1000800000000000000
+      internalID: 7491490462285538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBlocks_byVellidragon (2)_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf6cef7395fdc980800000000000000
+      internalID: -8516881306432540736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBlocks_byVellidragon (2)_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb4b1b39935ec160800000000000000
+      internalID: 7047662384468151274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBlocks_byVellidragon (2)_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb498b62cd7cccee0800000000000000
+      internalID: -1239396049077365570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBlocks_byVellidragon (2)_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972af12aa5d973cf0800000000000000
+      internalID: -272576239840025991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBlocks_byVellidragon (2)_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf7316163298b770800000000000000
+      internalID: 8626805847224451021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBlocks_byVellidragon (2)_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ddb67df53dbe7b60800000000000000
+      internalID: 7745836448707165648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBlocks_byVellidragon (2)_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5ebac42de296ec0800000000000000
+      internalID: -3573273348577434170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBlocks_byVellidragon (2)_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bde6024c24aed30800000000000000
+      internalID: 4461451790989056927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBlocks_byVellidragon (2)_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c01d41e1c5525d40800000000000000
+      internalID: 5571609980207698119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBlocks_byVellidragon (2)_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66e8f3871edeebc0800000000000000
+      internalID: -3751817246973303187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBlocks_byVellidragon (2)_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df5a792de5bb93e0800000000000000
+      internalID: -2045841575501996072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBlocks_byVellidragon (2)_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abeaa8b35891fa020800000000000000
+      internalID: 2355129190158347962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBlocks_byVellidragon (2)_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbf9375865359a20800000000000000
+      internalID: 3068417443379149823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBlocks_byVellidragon (2)_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b9a04568adaad50800000000000000
+      internalID: 6749447262038563587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBlocks_byVellidragon (2)_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25511494b76751e00800000000000000
+      internalID: 1014847562923971922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBlocks_byVellidragon (2)_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9fcdf10a7f1bef0800000000000000
+      internalID: -94021850096666187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBlocks_byVellidragon (2)_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8754624bb48991250800000000000000
+      internalID: 5915927036440233336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBlocks_byVellidragon (2)_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fba7dafedadd7730800000000000000
+      internalID: 3998592695400901618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
